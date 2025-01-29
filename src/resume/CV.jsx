@@ -208,7 +208,7 @@ let CV = () => {
                         </div>
                         <div>
                             <p>TTG media experiance
-                            In this project I performed CRUD operations by saving data using third party (Globaltics) API. Implemented "FOMO Pay" payment gateway for booking and created API for front end.</p>
+                            In this project I performed CRUD operations by saving data using third party (Globaltix) API. Implemented "FOMO Pay" payment gateway for booking and created API for front end.</p>
                         </div>
                     </div>
                 </div>
